@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6cXamUpktCK" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Adult Learning Theory</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Adult_Learning_Theory_ORG">
+    <organization identifier="Adult_Learning_Theory_ORG">
+      <title>Adult Learning Theory</title>
+      <item identifier="Adult_Learning_Theory_Project_1_SCO" isvisible="true" identifierref="__6cXamUpktCK_RES">
+        <title>Adult Learning Theory</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6cXamUpktCK_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6JcwmZZ4tjG_80_DX826_DY826_CX546_CY650.png" />
+      <file href="story_content/5XoZeTZNBRi.js" />
+      <file href="story_content/6QEguy1ZcTA.js" />
+      <file href="story_content/5XoZeTZNBRix.js" />
+      <file href="story_content/6QEguy1ZcTAx.js" />
+      <file href="mobile/5kNGDD8d39J_80_DX1440_DY1440_CX1132_CY637.png" />
+      <file href="mobile/6SKLDfhxK9A_80_DX1440_DY1440_CX1133_CY755.jpg" />
+      <file href="mobile/6pBv2cg1saC_80_DX730_DY730_CX420_CY573.png" />
+      <file href="mobile/6NDGr7LmSBJ_80_DX730_DY730_CX391_CY573.png" />
+      <file href="story_content/6FWlk4Rcoz3.js" />
+      <file href="story_content/5afwduaFC9w.js" />
+      <file href="story_content/6FWlk4Rcoz3x.js" />
+      <file href="story_content/5afwduaFC9wx.js" />
+      <file href="mobile/5rKFWw93ZmT_80_DX1468_DY1468_CX1155_CY650.png" />
+      <file href="mobile/5nuwEBCfuWK_X_80_DX1122_DY1122_CX569_CY672.png" />
+      <file href="mobile/6q4PO32Tq7e_80_DX1122_DY1122_CX273_CY554.png" />
+      <file href="mobile/5uuAx8SwNUw_80_DX1440_DY1440_CX1132_CY637.png" />
+      <file href="mobile/6Z2g4gY8sPP_80_DX1456_DY1456_CX1132_CY753.jpg" />
+      <file href="mobile/5eRm0Mb76oK_80_DX1124_DY1124_CX694_CY711.png" />
+      <file href="mobile/6bkmTQjD7mE_80_DX1440_DY1440_CX1132_CY637.png" />
+      <file href="mobile/5nuwEBCfuWK_X_80_R262626_DX1122_DY1122_CX569_CY672.png" />
+      <file href="mobile/6q4PO32Tq7e_80_R262626_DX1122_DY1122_CX273_CY554.png" />
+      <file href="mobile/5eRm0Mb76oK_80_R262626_DX1124_DY1124_CX694_CY711.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5xBNcvUn0vk.png" />
+      <file href="mobile/Shape5ogfpt8sD4a.png" />
+      <file href="mobile/Shape5fpZQLZcIYN.png" />
+      <file href="mobile/Shape63vb6bk88lR.png" />
+      <file href="mobile/Shape5YeX6F0GoyP.png" />
+      <file href="mobile/Shape5mJygNvk3xC.png" />
+      <file href="mobile/Shape6SV5GOBiaIG.png" />
+      <file href="mobile/Shape6pcAzGySGXU.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a52g55Hg9y.js" />
+      <file href="html5/data/js/5aRU0UyNwCG.js" />
+      <file href="html5/data/js/5b3G10IaQXS.js" />
+      <file href="html5/data/js/5beUo2m8n15.js" />
+      <file href="html5/data/js/5d8ySqbW2EF.js" />
+      <file href="html5/data/js/5eN6TpzepX1.js" />
+      <file href="html5/data/js/5ez2dLSKn4J.js" />
+      <file href="html5/data/js/5fAmxeEPQqj.js" />
+      <file href="html5/data/js/5giXBrmQDdW.js" />
+      <file href="html5/data/js/5jdxboy5n69.js" />
+      <file href="html5/data/js/5jxE8nYmSVK.js" />
+      <file href="html5/data/js/5kh2CPO4RSd.js" />
+      <file href="html5/data/js/5l5MZJJG5l9.js" />
+      <file href="html5/data/js/5lOvAJE3vFH.js" />
+      <file href="html5/data/js/5nBUrlXKsy9.js" />
+      <file href="html5/data/js/5pmKZ8v9DYh.js" />
+      <file href="html5/data/js/5rJlLJKqNDS.js" />
+      <file href="html5/data/js/5tPRPEgyPXM.js" />
+      <file href="html5/data/js/5uKEZqkuTfJ.js" />
+      <file href="html5/data/js/5urYuN4ln4U.js" />
+      <file href="html5/data/js/5V7VGa7UoyD.js" />
+      <file href="html5/data/js/5wHA7CaNUfV.js" />
+      <file href="html5/data/js/5WNpn1JBPKu.js" />
+      <file href="html5/data/js/5yHpgEUsCuE.js" />
+      <file href="html5/data/js/5YPIq1J2Bnb.js" />
+      <file href="html5/data/js/5ZR3xRfrxPQ.js" />
+      <file href="html5/data/js/63sfPScD6w2.js" />
+      <file href="html5/data/js/64LTGx7Dtyn.js" />
+      <file href="html5/data/js/64zpSymXBhQ.js" />
+      <file href="html5/data/js/655DJkLfnoN.js" />
+      <file href="html5/data/js/664bvpILtyG.js" />
+      <file href="html5/data/js/66wYC2ZlLVi.js" />
+      <file href="html5/data/js/6aJd3EdDodT.js" />
+      <file href="html5/data/js/6btKLMDvezP.js" />
+      <file href="html5/data/js/6bVcu3DDvnY.js" />
+      <file href="html5/data/js/6cB4ccchABV.js" />
+      <file href="html5/data/js/6Dehb6zQWGC.js" />
+      <file href="html5/data/js/6EB08fHpUP8.js" />
+      <file href="html5/data/js/6EcH0wRbxO5.js" />
+      <file href="html5/data/js/6ErcgPcNs6L.js" />
+      <file href="html5/data/js/6Fc34Ehwmba.js" />
+      <file href="html5/data/js/6Fjw6fn8p43.js" />
+      <file href="html5/data/js/6gCQrGCZ0Z7.js" />
+      <file href="html5/data/js/6htwZbx2MoS.js" />
+      <file href="html5/data/js/6huyWmLZFuG.js" />
+      <file href="html5/data/js/6JiPwW8WFMW.js" />
+      <file href="html5/data/js/6JuGLwdew6h.js" />
+      <file href="html5/data/js/6KKir7zi3TF.js" />
+      <file href="html5/data/js/6nv4T8qnwzQ.js" />
+      <file href="html5/data/js/6NvgBun1o0W.js" />
+      <file href="html5/data/js/6pxLTnp58Hy.js" />
+      <file href="html5/data/js/6QJi10RK7Cx.js" />
+      <file href="html5/data/js/6RKZX0L3MzE.js" />
+      <file href="html5/data/js/6SUlWm9Rthh.js" />
+      <file href="html5/data/js/6VvejgyXdE8.js" />
+      <file href="html5/data/js/6Xbd1T0MSTK.js" />
+      <file href="html5/data/js/6XVBMLiLa8D.js" />
+      <file href="html5/data/js/6YRVSaztJvj.js" />
+      <file href="html5/data/js/6ZGdVlOzlxk.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
